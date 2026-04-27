@@ -1,0 +1,100 @@
+# Privacy Policy for Power Systems
+
+**Effective Date:** [Add Date]
+
+Power Systems (“we”, “our”, or “us”) operates the Power Systems mobile application (the “App”). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+
+---
+
+## 1. Information We Collect
+
+### a) Personal Information
+
+We do not directly collect or store personal information such as your name, email address, or phone number unless you voluntarily provide it (for example, through a contact form).
+
+### b) Device and Usage Information
+
+We may collect limited technical information necessary for the app to function properly, such as:
+
+* Device type and operating system
+* App usage data
+* Diagnostic and crash data
+
+### c) Location Data
+
+The App may request access to your device’s location. This is used only to enable Bluetooth and Wi-Fi features required for connecting to nearby devices.
+We do not store or share your location data.
+
+### d) Bluetooth and Network Access
+
+The App uses Bluetooth and Wi-Fi to communicate with external hardware devices (such as ESP32 or other microcontrollers).
+No personal data is collected or transmitted through these connections.
+
+---
+
+## 2. How We Use Information
+
+We use collected information only to:
+
+* Provide and maintain app functionality
+* Connect and communicate with smart devices
+* Improve app performance and reliability
+* Diagnose technical issues
+
+---
+
+## 3. Data Sharing
+
+We do not sell, trade, or rent your personal information to third parties.
+
+We may use trusted third-party services (such as Firebase) for:
+
+* Notifications
+* Analytics
+  These services may collect limited data in accordance with their own privacy policies.
+
+---
+
+## 4. Data Security
+
+We take reasonable measures to protect your information. However, no method of transmission over the internet or electronic storage is 100% secure.
+
+---
+
+## 5. Permissions Used
+
+The App may request the following permissions:
+
+* **Bluetooth** – to connect to external devices
+* **Location** – required for Bluetooth scanning on Android
+* **Internet** – for network communication and updates
+
+These permissions are used strictly for app functionality.
+
+---
+
+## 6. Children’s Privacy
+
+The App is not intended for children under the age of 13. We do not knowingly collect personal data from children.
+
+---
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+
+---
+
+## 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, you can contact us at:
++962780296420
++962799060750
+
+**Email:** [faisalosama234@gmail.com](mailto:faisalosama234@gmail.com)
+
+---
+
+## 9. Consent
+
+By using the App, you agree to this Privacy Policy.
